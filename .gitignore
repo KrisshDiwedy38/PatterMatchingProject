@@ -1,0 +1,10 @@
+# Local docs / assistant files
+docs/
+CLAUDE.md
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
